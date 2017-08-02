@@ -7,6 +7,7 @@ public class helloworld{
 			System.out.println("Hello World :"+i);
 		}
 		System.out.println("This is my first contineous integration project.");
+		System.out.println("This is my first contineous Git project.");
 
 	}
 
